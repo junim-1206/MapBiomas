@@ -1,0 +1,950 @@
+,DN,nome,ano,area,classificação
+0,0,Antas,2008,1630982.0,Não-Contabilizado
+1,0,Antas,2021,3808273.0,Não-Contabilizado
+2,0,Araguari,2008,621084332.0,Não-Contabilizado
+3,0,Araguari,2021,621084332.0,Não-Contabilizado
+4,0,Capivari,2008,115980.0,Não-Contabilizado
+5,0,Capivari,2021,130573.0,Não-Contabilizado
+6,0,Correntes,2008,23047.0,Não-Contabilizado
+7,0,Correntes,2021,23047.0,Não-Contabilizado
+8,0,Curruá Una,2008,221413.0,Não-Contabilizado
+9,0,Curruá Una,2021,221413.0,Não-Contabilizado
+10,0,Doce,2008,20287976.0,Não-Contabilizado
+11,0,Doce,2021,21507951.0,Não-Contabilizado
+12,0,Grande,2008,24590878.0,Não-Contabilizado
+13,0,Grande,2021,26598147.0,Não-Contabilizado
+14,0,Iguaçu,2008,10221608.0,Não-Contabilizado
+15,0,Iguaçu,2021,12465946.0,Não-Contabilizado
+16,0,Itabapoana,2008,290756.0,Não-Contabilizado
+17,0,Itabapoana,2021,177821.0,Não-Contabilizado
+18,0,Itajaí-Açú,2008,30306.0,Não-Contabilizado
+19,0,Itajaí-Açú,2021,57406.0,Não-Contabilizado
+20,0,Itiquira,2008,9404.0,Não-Contabilizado
+21,0,Itiquira,2021,5359274.0,Não-Contabilizado
+22,0,Jacuí,2008,5217008.0,Não-Contabilizado
+23,0,Jacuí,2021,5359274.0,Não-Contabilizado
+24,0,Jari,2008,36136098.0,Não-Contabilizado
+25,0,Jari,2021,36136098.0,Não-Contabilizado
+26,0,Jauru,2008,1126132178.0,Não-Contabilizado
+27,0,Jauru,2021,1126130450.0,Não-Contabilizado
+28,0,Jequitinhonha,2008,6481722.0,Não-Contabilizado
+29,0,Jequitinhonha,2021,7496289.0,Não-Contabilizado
+30,0,Madeira,2008,909174423.0,Não-Contabilizado
+31,0,Madeira,2021,906273403.0,Não-Contabilizado
+32,0,Manso,2008,2818436.0,Não-Contabilizado
+33,0,Manso,2021,2818436.0,Não-Contabilizado
+34,0,Mucuri,2008,401784.0,Não-Contabilizado
+35,0,Mucuri,2021,537379.0,Não-Contabilizado
+36,0,Paraguaçu,2008,3751935.0,Não-Contabilizado
+37,0,Paraguaçu,2021,5136901.0,Não-Contabilizado
+38,0,Paranapanema,2008,29081604.0,Não-Contabilizado
+39,0,Paranapanema,2021,39121143.0,Não-Contabilizado
+40,0,Paranaíba,2008,15767345.0,Não-Contabilizado
+41,0,Paranaíba,2021,15767345.0,Não-Contabilizado
+42,0,Paraná,2008,787733898.0,Não-Contabilizado
+43,0,Paraná,2021,806183528.0,Não-Contabilizado
+44,0,Paraíba do Sul,2008,38523248.0,Não-Contabilizado
+45,0,Paraíba do Sul,2021,39071329.0,Não-Contabilizado
+46,0,Parnaíba,2008,49691791.0,Não-Contabilizado
+47,0,Parnaíba,2021,49694470.0,Não-Contabilizado
+48,0,São Francisco,2008,347132473.0,Não-Contabilizado
+49,0,São Francisco,2021,347709213.0,Não-Contabilizado
+50,0,Tapajós,2008,569227855.0,Não-Contabilizado
+51,0,Tapajós,2021,569186385.0,Não-Contabilizado
+52,0,Tietê,2008,6481722.0,Não-Contabilizado
+53,0,Tietê,2021,26568648.0,Não-Contabilizado
+54,0,Tocantins,2008,810698181.0,Não-Contabilizado
+55,0,Tocantins,2021,907900633.0,Não-Contabilizado
+56,0,Uatuamã,2008,810698181.0,Não-Contabilizado
+57,0,Uatuamã,2021,810691923.0,Não-Contabilizado
+58,0,Uruguai,2008,29323931.0,Não-Contabilizado
+59,0,Uruguai,2021,33378439.0,Não-Contabilizado
+60,0,Xingú,2008,2116021566.0,Não-Contabilizado
+61,0,Xingú,2021,2115981916.0,Não-Contabilizado
+62,3,Antas,2008,69528633.0,Não-Antrópico
+63,3,Antas,2021,68495721.0,Não-Antrópico
+64,3,Araguari,2008,48727963.0,Não-Antrópico
+65,3,Araguari,2021,59030307.0,Não-Antrópico
+66,3,Capivari,2008,6767051.0,Não-Antrópico
+67,3,Capivari,2021,7786080.0,Não-Antrópico
+68,3,Correntes,2008,1250247.0,Não-Antrópico
+69,3,Correntes,2021,1439692.0,Não-Antrópico
+70,3,Curruá Una,2008,14801753.0,Não-Antrópico
+71,3,Curruá Una,2021,18781167.0,Não-Antrópico
+72,3,Doce,2008,123174783.0,Não-Antrópico
+73,3,Doce,2021,163039172.0,Não-Antrópico
+74,3,Grande,2008,162017219.0,Não-Antrópico
+75,3,Grande,2021,237014643.0,Não-Antrópico
+76,3,Iguaçu,2008,335940258.0,Não-Antrópico
+77,3,Iguaçu,2021,379503489.0,Não-Antrópico
+78,3,Itabapoana,2008,10926990.0,Não-Antrópico
+79,3,Itabapoana,2021,4805489.0,Não-Antrópico
+80,3,Itajaí-Açú,2008,5434602.0,Não-Antrópico
+81,3,Itajaí-Açú,2021,5797160.0,Não-Antrópico
+82,3,Itiquira,2008,3908562.0,Não-Antrópico
+83,3,Itiquira,2021,45066429.0,Não-Antrópico
+84,3,Jacuí,2008,44554742.0,Não-Antrópico
+85,3,Jacuí,2021,45066429.0,Não-Antrópico
+86,3,Jari,2008,123353559.0,Não-Antrópico
+87,3,Jari,2021,136043402.0,Não-Antrópico
+88,3,Jauru,2008,923903.0,Não-Antrópico
+89,3,Jauru,2021,2104304.0,Não-Antrópico
+90,3,Jequitinhonha,2008,34478051.0,Não-Antrópico
+91,3,Jequitinhonha,2021,45021339.0,Não-Antrópico
+92,3,Madeira,2008,2979254070.0,Não-Antrópico
+93,3,Madeira,2021,2733861861.0,Não-Antrópico
+94,3,Manso,2008,15680640.0,Não-Antrópico
+95,3,Manso,2021,20431867.0,Não-Antrópico
+96,3,Mucuri,2008,15641366.0,Não-Antrópico
+97,3,Mucuri,2021,24308511.0,Não-Antrópico
+98,3,Paraguaçu,2008,13554216.0,Não-Antrópico
+99,3,Paraguaçu,2021,28803179.0,Não-Antrópico
+100,3,Paranapanema,2008,199233811.0,Não-Antrópico
+101,3,Paranapanema,2021,229021266.0,Não-Antrópico
+102,3,Paranaíba,2008,306594319.0,Não-Antrópico
+103,3,Paranaíba,2021,242987320.0,Não-Antrópico
+104,3,Paraná,2008,546158479.0,Não-Antrópico
+105,3,Paraná,2021,616352581.0,Não-Antrópico
+106,3,Paraíba do Sul,2008,91463980.0,Não-Antrópico
+107,3,Paraíba do Sul,2021,130053581.0,Não-Antrópico
+108,3,Parnaíba,2008,72299872.0,Não-Antrópico
+109,3,Parnaíba,2021,81656455.0,Não-Antrópico
+110,3,São Francisco,2008,257339560.0,Não-Antrópico
+111,3,São Francisco,2021,297029941.0,Não-Antrópico
+112,3,Tapajós,2008,1866483289.0,Não-Antrópico
+113,3,Tapajós,2021,1501139813.0,Não-Antrópico
+114,3,Tietê,2008,34478051.0,Não-Antrópico
+115,3,Tietê,2021,178716321.0,Não-Antrópico
+116,3,Tocantins,2008,431665026.0,Não-Antrópico
+117,3,Tocantins,2021,1765327049.0,Não-Antrópico
+118,3,Uatuamã,2008,431665026.0,Não-Antrópico
+119,3,Uatuamã,2021,496247256.0,Não-Antrópico
+120,3,Uruguai,2008,711634762.0,Não-Antrópico
+121,3,Uruguai,2021,734092646.0,Não-Antrópico
+122,3,Xingú,2008,1606792994.0,Não-Antrópico
+123,3,Xingú,2021,1531367363.0,Não-Antrópico
+124,4,Araguari,2008,31287.0,Não-Antrópico
+125,4,Araguari,2021,54528.0,Não-Antrópico
+126,4,Correntes,2008,4719530.0,Não-Antrópico
+127,4,Correntes,2021,4838984.0,Não-Antrópico
+128,4,Curruá Una,2008,1784.0,Não-Antrópico
+129,4,Curruá Una,2021,18745.0,Não-Antrópico
+130,4,Doce,2008,3070550.0,Não-Antrópico
+131,4,Doce,2021,3131290.0,Não-Antrópico
+132,4,Grande,2008,11178112.0,Não-Antrópico
+133,4,Grande,2021,13593265.0,Não-Antrópico
+134,4,Itabapoana,2021,836.0,Não-Antrópico
+135,4,Itiquira,2008,2179647.0,Não-Antrópico
+136,4,Jari,2008,20560.0,Não-Antrópico
+137,4,Jari,2021,45593.0,Não-Antrópico
+138,4,Jauru,2008,624843.0,Não-Antrópico
+139,4,Jauru,2021,670742.0,Não-Antrópico
+140,4,Jequitinhonha,2008,64797754.0,Não-Antrópico
+141,4,Jequitinhonha,2021,62865030.0,Não-Antrópico
+142,4,Madeira,2008,70180392.0,Não-Antrópico
+143,4,Madeira,2021,23852714.0,Não-Antrópico
+144,4,Manso,2008,14652992.0,Não-Antrópico
+145,4,Manso,2021,24876741.0,Não-Antrópico
+146,4,Mucuri,2008,185297.0,Não-Antrópico
+147,4,Mucuri,2021,83685.0,Não-Antrópico
+148,4,Paraguaçu,2008,33895801.0,Não-Antrópico
+149,4,Paraguaçu,2021,44795464.0,Não-Antrópico
+150,4,Paranapanema,2008,243665.0,Não-Antrópico
+151,4,Paranapanema,2021,221656.0,Não-Antrópico
+152,4,Paranaíba,2008,114863385.0,Não-Antrópico
+153,4,Paranaíba,2021,67168765.0,Não-Antrópico
+154,4,Paraná,2008,21294229.0,Não-Antrópico
+155,4,Paraná,2021,16056055.0,Não-Antrópico
+156,4,Paraíba do Sul,2008,831.0,Não-Antrópico
+157,4,Paraíba do Sul,2021,4163.0,Não-Antrópico
+158,4,Parnaíba,2008,318270199.0,Não-Antrópico
+159,4,Parnaíba,2021,315295287.0,Não-Antrópico
+160,4,São Francisco,2008,511382762.0,Não-Antrópico
+161,4,São Francisco,2021,512650110.0,Não-Antrópico
+162,4,Tapajós,2008,54987499.0,Não-Antrópico
+163,4,Tapajós,2021,52370721.0,Não-Antrópico
+164,4,Tietê,2008,64797754.0,Não-Antrópico
+165,4,Tietê,2021,317581.0,Não-Antrópico
+166,4,Tocantins,2021,903881335.0,Não-Antrópico
+167,4,Uatuamã,2021,1787.0,Não-Antrópico
+168,4,Xingú,2008,115310068.0,Não-Antrópico
+169,4,Xingú,2021,129148867.0,Não-Antrópico
+170,5,Itabapoana,2008,297042.0,Não-Antrópico
+171,5,Itabapoana,2021,156864.0,Não-Antrópico
+172,5,Jequitinhonha,2008,400294.0,Não-Antrópico
+173,5,Jequitinhonha,2021,210909.0,Não-Antrópico
+174,5,Mucuri,2008,993809.0,Não-Antrópico
+175,5,Mucuri,2021,1013378.0,Não-Antrópico
+176,5,Paraguaçu,2008,6304252.0,Não-Antrópico
+177,5,Paraguaçu,2021,6705571.0,Não-Antrópico
+178,5,Paraíba do Sul,2008,577058.0,Não-Antrópico
+179,5,Paraíba do Sul,2021,641175.0,Não-Antrópico
+180,5,Parnaíba,2008,19380519.0,Não-Antrópico
+181,5,Parnaíba,2021,19501056.0,Não-Antrópico
+182,5,Tietê,2008,400294.0,Não-Antrópico
+183,9,Antas,2008,1420955.0,Antrópico
+184,9,Antas,2021,2798680.0,Antrópico
+185,9,Araguari,2008,460361.0,Antrópico
+186,9,Araguari,2021,445167.0,Antrópico
+187,9,Capivari,2008,28379.0,Antrópico
+188,9,Capivari,2021,287015.0,Antrópico
+189,9,Doce,2008,698398.0,Antrópico
+190,9,Doce,2021,1383139.0,Antrópico
+191,9,Grande,2008,434283.0,Antrópico
+192,9,Grande,2021,1281349.0,Antrópico
+193,9,Iguaçu,2008,7695959.0,Antrópico
+194,9,Iguaçu,2021,16854332.0,Antrópico
+195,9,Itabapoana,2008,554154.0,Antrópico
+196,9,Itabapoana,2021,13382.0,Antrópico
+197,9,Itajaí-Açú,2008,529050.0,Antrópico
+198,9,Itajaí-Açú,2021,1431420.0,Antrópico
+199,9,Itiquira,2021,2116397.0,Antrópico
+200,9,Jacuí,2008,1644301.0,Antrópico
+201,9,Jacuí,2021,2116397.0,Antrópico
+202,9,Jari,2008,129619.0,Antrópico
+203,9,Jari,2021,138557.0,Antrópico
+204,9,Jequitinhonha,2008,56451.0,Antrópico
+205,9,Jequitinhonha,2021,335001.0,Antrópico
+206,9,Madeira,2008,19050.0,Antrópico
+207,9,Madeira,2021,40694.0,Antrópico
+208,9,Manso,2021,12973.0,Antrópico
+209,9,Mucuri,2008,68928.0,Antrópico
+210,9,Mucuri,2021,499413.0,Antrópico
+211,9,Paranapanema,2008,16837667.0,Antrópico
+212,9,Paranapanema,2021,9728149.0,Antrópico
+213,9,Paranaíba,2008,806612.0,Antrópico
+214,9,Paranaíba,2021,828764.0,Antrópico
+215,9,Paraná,2008,1047805.0,Antrópico
+216,9,Paraná,2021,3389343.0,Antrópico
+217,9,Paraíba do Sul,2008,177741.0,Antrópico
+218,9,Paraíba do Sul,2021,1136104.0,Antrópico
+219,9,Parnaíba,2008,111353.0,Antrópico
+220,9,Parnaíba,2021,473927.0,Antrópico
+221,9,São Francisco,2008,485775.0,Antrópico
+222,9,São Francisco,2021,2207657.0,Antrópico
+223,9,Tapajós,2008,7858.0,Antrópico
+224,9,Tapajós,2021,44535.0,Antrópico
+225,9,Tietê,2008,56451.0,Antrópico
+226,9,Tietê,2021,2036297.0,Antrópico
+227,9,Tocantins,2021,1511345.0,Antrópico
+228,9,Uruguai,2008,19432184.0,Antrópico
+229,9,Uruguai,2021,35049107.0,Antrópico
+230,9,Xingú,2008,81302.0,Antrópico
+231,9,Xingú,2021,140793.0,Antrópico
+232,11,Antas,2008,10941.0,Não-Antrópico
+233,11,Araguari,2008,20977651.0,Não-Antrópico
+234,11,Araguari,2021,13800469.0,Não-Antrópico
+235,11,Capivari,2008,30788.0,Não-Antrópico
+236,11,Capivari,2021,20255.0,Não-Antrópico
+237,11,Correntes,2008,9791417.0,Não-Antrópico
+238,11,Correntes,2021,11508749.0,Não-Antrópico
+239,11,Curruá Una,2008,5482383.0,Não-Antrópico
+240,11,Curruá Una,2021,6654357.0,Não-Antrópico
+241,11,Doce,2008,5350945.0,Não-Antrópico
+242,11,Doce,2021,5335465.0,Não-Antrópico
+243,11,Grande,2008,79368228.0,Não-Antrópico
+244,11,Grande,2021,116206576.0,Não-Antrópico
+245,11,Iguaçu,2008,25531543.0,Não-Antrópico
+246,11,Iguaçu,2021,21821714.0,Não-Antrópico
+247,11,Itabapoana,2008,11759265.0,Não-Antrópico
+248,11,Itabapoana,2021,6813099.0,Não-Antrópico
+249,11,Itajaí-Açú,2008,29541.0,Não-Antrópico
+250,11,Itajaí-Açú,2021,5590.0,Não-Antrópico
+251,11,Itiquira,2008,1229674.0,Não-Antrópico
+252,11,Itiquira,2021,955282.0,Não-Antrópico
+253,11,Jacuí,2008,1037601.0,Não-Antrópico
+254,11,Jacuí,2021,955282.0,Não-Antrópico
+255,11,Jari,2008,14978209.0,Não-Antrópico
+256,11,Jari,2021,22287508.0,Não-Antrópico
+257,11,Jauru,2008,847389.0,Não-Antrópico
+258,11,Jauru,2021,41478.0,Não-Antrópico
+259,11,Jequitinhonha,2008,9071127.0,Não-Antrópico
+260,11,Jequitinhonha,2021,22949816.0,Não-Antrópico
+261,11,Madeira,2008,1008981026.0,Não-Antrópico
+262,11,Madeira,2021,525356913.0,Não-Antrópico
+263,11,Manso,2008,370742.0,Não-Antrópico
+264,11,Manso,2021,1427970.0,Não-Antrópico
+265,11,Mucuri,2008,487577.0,Não-Antrópico
+266,11,Mucuri,2021,1080944.0,Não-Antrópico
+267,11,Paraguaçu,2008,318409.0,Não-Antrópico
+268,11,Paraguaçu,2021,671684.0,Não-Antrópico
+269,11,Paranapanema,2008,86348036.0,Não-Antrópico
+270,11,Paranapanema,2021,79276215.0,Não-Antrópico
+271,11,Paranaíba,2008,181062220.0,Não-Antrópico
+272,11,Paranaíba,2021,245438664.0,Não-Antrópico
+273,11,Paraná,2008,476379751.0,Não-Antrópico
+274,11,Paraná,2021,512165697.0,Não-Antrópico
+275,11,Paraíba do Sul,2008,9694110.0,Não-Antrópico
+276,11,Paraíba do Sul,2021,11049360.0,Não-Antrópico
+277,11,Parnaíba,2008,121550463.0,Não-Antrópico
+278,11,Parnaíba,2021,176066415.0,Não-Antrópico
+279,11,São Francisco,2008,174712603.0,Não-Antrópico
+280,11,São Francisco,2021,271271084.0,Não-Antrópico
+281,11,Tapajós,2008,122222859.0,Não-Antrópico
+282,11,Tapajós,2021,94154856.0,Não-Antrópico
+283,11,Tietê,2008,9071127.0,Não-Antrópico
+284,11,Tietê,2021,63158966.0,Não-Antrópico
+285,11,Tocantins,2008,97845653.0,Não-Antrópico
+286,11,Tocantins,2021,575032223.0,Não-Antrópico
+287,11,Uatuamã,2008,97845653.0,Não-Antrópico
+288,11,Uatuamã,2021,112654100.0,Não-Antrópico
+289,11,Uruguai,2008,64164031.0,Não-Antrópico
+290,11,Uruguai,2021,46417296.0,Não-Antrópico
+291,11,Xingú,2008,246017130.0,Não-Antrópico
+292,11,Xingú,2021,265048283.0,Não-Antrópico
+293,12,Antas,2008,46781625.0,Não-Antrópico
+294,12,Antas,2021,35504246.0,Não-Antrópico
+295,12,Araguari,2008,4893169.0,Não-Antrópico
+296,12,Araguari,2021,2376862.0,Não-Antrópico
+297,12,Correntes,2008,30720.0,Não-Antrópico
+298,12,Correntes,2021,69130.0,Não-Antrópico
+299,12,Curruá Una,2008,3543851.0,Não-Antrópico
+300,12,Curruá Una,2021,7142968.0,Não-Antrópico
+301,12,Doce,2008,1981237.0,Não-Antrópico
+302,12,Doce,2021,2648972.0,Não-Antrópico
+303,12,Grande,2008,15938372.0,Não-Antrópico
+304,12,Grande,2021,31620768.0,Não-Antrópico
+305,12,Iguaçu,2008,315860.0,Não-Antrópico
+306,12,Iguaçu,2021,299569.0,Não-Antrópico
+307,12,Itabapoana,2008,98427.0,Não-Antrópico
+308,12,Itajaí-Açú,2008,98427.0,Não-Antrópico
+309,12,Itajaí-Açú,2021,36595.0,Não-Antrópico
+310,12,Itiquira,2008,9408.0,Não-Antrópico
+311,12,Itiquira,2021,14121281.0,Não-Antrópico
+312,12,Jacuí,2008,23008707.0,Não-Antrópico
+313,12,Jacuí,2021,14121281.0,Não-Antrópico
+314,12,Jari,2008,4118098.0,Não-Antrópico
+315,12,Jari,2021,8896654.0,Não-Antrópico
+316,12,Jauru,2008,375724.0,Não-Antrópico
+317,12,Jauru,2021,2113364.0,Não-Antrópico
+318,12,Jequitinhonha,2008,569846.0,Não-Antrópico
+319,12,Jequitinhonha,2021,823593.0,Não-Antrópico
+320,12,Madeira,2008,1150293971.0,Não-Antrópico
+321,12,Madeira,2021,1416787726.0,Não-Antrópico
+322,12,Manso,2008,12963.0,Não-Antrópico
+323,12,Manso,2021,1607831.0,Não-Antrópico
+324,12,Paraguaçu,2008,1059625.0,Não-Antrópico
+325,12,Paraguaçu,2021,1198815.0,Não-Antrópico
+326,12,Paranapanema,2008,3489522.0,Não-Antrópico
+327,12,Paranapanema,2021,6008246.0,Não-Antrópico
+328,12,Paranaíba,2008,33264047.0,Não-Antrópico
+329,12,Paranaíba,2021,49647815.0,Não-Antrópico
+330,12,Paraná,2008,13617100.0,Não-Antrópico
+331,12,Paraná,2021,12335384.0,Não-Antrópico
+332,12,Parnaíba,2008,42207616.0,Não-Antrópico
+333,12,Parnaíba,2021,51740503.0,Não-Antrópico
+334,12,São Francisco,2008,56462156.0,Não-Antrópico
+335,12,São Francisco,2021,65379622.0,Não-Antrópico
+336,12,Tapajós,2008,173389535.0,Não-Antrópico
+337,12,Tapajós,2021,148404805.0,Não-Antrópico
+338,12,Tietê,2008,569846.0,Não-Antrópico
+339,12,Tietê,2021,114279.0,Não-Antrópico
+340,12,Tocantins,2008,41987604.0,Não-Antrópico
+341,12,Tocantins,2021,301954092.0,Não-Antrópico
+342,12,Uatuamã,2008,41987604.0,Não-Antrópico
+343,12,Uatuamã,2021,142541166.0,Não-Antrópico
+344,12,Uruguai,2008,723857874.0,Não-Antrópico
+345,12,Uruguai,2021,444723597.0,Não-Antrópico
+346,12,Xingú,2008,158386440.0,Não-Antrópico
+347,12,Xingú,2021,292423454.0,Não-Antrópico
+348,13,Doce,2008,36307.0,Não-Antrópico
+349,13,Doce,2021,41345.0,Não-Antrópico
+350,13,Jequitinhonha,2008,37850.0,Não-Antrópico
+351,13,Jequitinhonha,2021,154805.0,Não-Antrópico
+352,13,Mucuri,2008,23825.0,Não-Antrópico
+353,13,Mucuri,2021,42543.0,Não-Antrópico
+354,13,Paranapanema,2008,12282.0,Não-Antrópico
+355,13,Paranapanema,2021,4909.0,Não-Antrópico
+356,13,Paraíba do Sul,2008,6662.0,Não-Antrópico
+357,13,Paraíba do Sul,2021,39976.0,Não-Antrópico
+358,13,São Francisco,2021,22715.0,Não-Antrópico
+359,13,Tietê,2008,37850.0,Não-Antrópico
+360,15,Antas,2008,3373659.0,Antrópico
+361,15,Antas,2021,2569851.0,Antrópico
+362,15,Araguari,2008,3934060.0,Antrópico
+363,15,Araguari,2021,434454.0,Antrópico
+364,15,Capivari,2008,851046.0,Antrópico
+365,15,Capivari,2021,200232.0,Antrópico
+366,15,Correntes,2008,1176847.0,Antrópico
+367,15,Correntes,2021,793669.0,Antrópico
+368,15,Curruá Una,2008,11493925.0,Antrópico
+369,15,Curruá Una,2021,7740808.0,Antrópico
+370,15,Doce,2008,296411818.0,Antrópico
+371,15,Doce,2021,233672464.0,Antrópico
+372,15,Grande,2008,162422134.0,Antrópico
+373,15,Grande,2021,173765979.0,Antrópico
+374,15,Iguaçu,2008,46533290.0,Antrópico
+375,15,Iguaçu,2021,33855877.0,Antrópico
+376,15,Itabapoana,2008,46460162.0,Antrópico
+377,15,Itabapoana,2021,15668832.0,Antrópico
+378,15,Itajaí-Açú,2008,4266922.0,Antrópico
+379,15,Itajaí-Açú,2021,4347878.0,Antrópico
+380,15,Itiquira,2008,325830.0,Antrópico
+381,15,Itiquira,2021,1433667.0,Antrópico
+382,15,Jacuí,2008,2622430.0,Antrópico
+383,15,Jacuí,2021,1433667.0,Antrópico
+384,15,Jari,2008,1174574.0,Antrópico
+385,15,Jari,2021,417459.0,Antrópico
+386,15,Jauru,2008,2979578.0,Antrópico
+387,15,Jauru,2021,1004479.0,Antrópico
+388,15,Jequitinhonha,2008,98676284.0,Antrópico
+389,15,Jequitinhonha,2021,113097161.0,Antrópico
+390,15,Madeira,2008,783602257.0,Antrópico
+391,15,Madeira,2021,611622484.0,Antrópico
+392,15,Manso,2008,1044261.0,Antrópico
+393,15,Manso,2021,1516263.0,Antrópico
+394,15,Mucuri,2008,34757833.0,Antrópico
+395,15,Mucuri,2021,23789651.0,Antrópico
+396,15,Paraguaçu,2008,41881150.0,Antrópico
+397,15,Paraguaçu,2021,39488815.0,Antrópico
+398,15,Paranapanema,2008,69266173.0,Antrópico
+399,15,Paranapanema,2021,62779061.0,Antrópico
+400,15,Paranaíba,2008,313433369.0,Antrópico
+401,15,Paranaíba,2021,240339976.0,Antrópico
+402,15,Paraná,2008,285683904.0,Antrópico
+403,15,Paraná,2021,166092613.0,Antrópico
+404,15,Paraíba do Sul,2008,291422021.0,Antrópico
+405,15,Paraíba do Sul,2021,262097490.0,Antrópico
+406,15,Parnaíba,2008,40355242.0,Antrópico
+407,15,Parnaíba,2021,38303565.0,Antrópico
+408,15,São Francisco,2008,411445134.0,Antrópico
+409,15,São Francisco,2021,379650563.0,Antrópico
+410,15,Tapajós,2008,323539897.0,Antrópico
+411,15,Tapajós,2021,193280934.0,Antrópico
+412,15,Tietê,2008,98676284.0,Antrópico
+413,15,Tietê,2021,54085703.0,Antrópico
+414,15,Tocantins,2008,5269170.0,Antrópico
+415,15,Tocantins,2021,634304541.0,Antrópico
+416,15,Uatuamã,2008,5269170.0,Antrópico
+417,15,Uatuamã,2021,6064554.0,Antrópico
+418,15,Uruguai,2008,57617918.0,Antrópico
+419,15,Uruguai,2021,43499116.0,Antrópico
+420,15,Xingú,2008,301962554.0,Antrópico
+421,15,Xingú,2021,177925552.0,Antrópico
+422,20,Grande,2008,26312775.0,Antrópico
+423,20,Grande,2021,13675193.0,Antrópico
+424,20,Paranapanema,2008,5779331.0,Antrópico
+425,20,Paranapanema,2021,2050795.0,Antrópico
+426,20,Paranaíba,2008,1960923.0,Antrópico
+427,20,Paranaíba,2021,2042893.0,Antrópico
+428,20,Paraná,2008,2108581.0,Antrópico
+429,20,Paraná,2021,1727097.0,Antrópico
+430,20,Paraíba do Sul,2008,12360.0,Antrópico
+431,20,Paraíba do Sul,2021,19777.0,Antrópico
+432,20,Parnaíba,2008,31964.0,Antrópico
+433,20,Parnaíba,2021,17805.0,Antrópico
+434,20,São Francisco,2008,1035227.0,Antrópico
+435,20,São Francisco,2021,658174.0,Antrópico
+436,20,Tietê,2021,6557562.0,Antrópico
+437,20,Tocantins,2021,384005.0,Antrópico
+438,21,Antas,2008,24068441.0,Antrópico
+439,21,Antas,2021,12957790.0,Antrópico
+440,21,Capivari,2008,3588733.0,Antrópico
+441,21,Capivari,2021,3965195.0,Antrópico
+442,21,Correntes,2008,535029.0,Antrópico
+443,21,Correntes,2021,606697.0,Antrópico
+444,21,Doce,2008,161652618.0,Antrópico
+445,21,Doce,2021,178772836.0,Antrópico
+446,21,Grande,2008,385963565.0,Antrópico
+447,21,Grande,2021,508297172.0,Antrópico
+448,21,Iguaçu,2008,214475061.0,Antrópico
+449,21,Iguaçu,2021,184566193.0,Antrópico
+450,21,Itabapoana,2008,46094121.0,Antrópico
+451,21,Itabapoana,2021,8920873.0,Antrópico
+452,21,Itajaí-Açú,2008,31536127.0,Antrópico
+453,21,Itajaí-Açú,2021,33217832.0,Antrópico
+454,21,Itiquira,2008,150498.0,Antrópico
+455,21,Itiquira,2021,17675686.0,Antrópico
+456,21,Jacuí,2008,34718450.0,Antrópico
+457,21,Jacuí,2021,17675686.0,Antrópico
+458,21,Jauru,2008,864.0,Antrópico
+459,21,Jauru,2021,866.0,Antrópico
+460,21,Jequitinhonha,2008,42709120.0,Antrópico
+461,21,Jequitinhonha,2021,45455918.0,Antrópico
+462,21,Madeira,2008,1009870.0,Antrópico
+463,21,Madeira,2021,111545.0,Antrópico
+464,21,Manso,2008,976821.0,Antrópico
+465,21,Manso,2021,11990903.0,Antrópico
+466,21,Mucuri,2008,18998519.0,Antrópico
+467,21,Mucuri,2021,20617672.0,Antrópico
+468,21,Paraguaçu,2008,9893855.0,Antrópico
+469,21,Paraguaçu,2021,15519238.0,Antrópico
+470,21,Paranapanema,2008,309719538.0,Antrópico
+471,21,Paranapanema,2021,320478246.0,Antrópico
+472,21,Paranaíba,2008,323883589.0,Antrópico
+473,21,Paranaíba,2021,470948303.0,Antrópico
+474,21,Paraná,2008,468511259.0,Antrópico
+475,21,Paraná,2021,386639046.0,Antrópico
+476,21,Paraíba do Sul,2008,185979459.0,Antrópico
+477,21,Paraíba do Sul,2021,204687862.0,Antrópico
+478,21,Parnaíba,2008,60256479.0,Antrópico
+479,21,Parnaíba,2021,77003227.0,Antrópico
+480,21,São Francisco,2008,279658143.0,Antrópico
+481,21,São Francisco,2021,559753266.0,Antrópico
+482,21,Tapajós,2008,3484335.0,Antrópico
+483,21,Tapajós,2021,4148974.0,Antrópico
+484,21,Tietê,2008,42709120.0,Antrópico
+485,21,Tietê,2021,340619783.0,Antrópico
+486,21,Tocantins,2021,228940307.0,Antrópico
+487,21,Uruguai,2008,588191806.0,Antrópico
+488,21,Uruguai,2021,438086683.0,Antrópico
+489,21,Xingú,2008,2488340.0,Antrópico
+490,21,Xingú,2021,5341929.0,Antrópico
+491,23,Doce,2008,384584.0,Não-Antrópico
+492,23,Doce,2021,111319.0,Não-Antrópico
+493,23,Itabapoana,2008,126820.0,Não-Antrópico
+494,23,Itabapoana,2021,61741.0,Não-Antrópico
+495,23,Jequitinhonha,2008,1722.0,Não-Antrópico
+496,23,Jequitinhonha,2021,861.0,Não-Antrópico
+497,23,Mucuri,2008,25526.0,Não-Antrópico
+498,23,Mucuri,2021,5105.0,Não-Antrópico
+499,23,Paraguaçu,2008,25295.0,Não-Antrópico
+500,23,Paraguaçu,2021,11337.0,Não-Antrópico
+501,23,Paraíba do Sul,2008,104077.0,Não-Antrópico
+502,23,Paraíba do Sul,2021,88222.0,Não-Antrópico
+503,23,Parnaíba,2008,3654943.0,Não-Antrópico
+504,23,Parnaíba,2021,1318003.0,Não-Antrópico
+505,23,São Francisco,2008,362929.0,Não-Antrópico
+506,23,São Francisco,2021,344489.0,Não-Antrópico
+507,23,Tietê,2008,1722.0,Não-Antrópico
+508,23,Tietê,2021,821.0,Não-Antrópico
+509,23,Tocantins,2021,9670.0,Não-Antrópico
+510,23,Uruguai,2008,16370.0,Não-Antrópico
+511,23,Uruguai,2021,16370.0,Não-Antrópico
+512,24,Antas,2008,189669.0,Antrópico
+513,24,Antas,2021,242215.0,Antrópico
+514,24,Araguari,2008,8939.0,Antrópico
+515,24,Araguari,2021,14303.0,Antrópico
+516,24,Capivari,2008,22679.0,Antrópico
+517,24,Capivari,2021,29164.0,Antrópico
+518,24,Curruá Una,2008,46432.0,Antrópico
+519,24,Curruá Una,2021,50897.0,Antrópico
+520,24,Doce,2008,6208297.0,Antrópico
+521,24,Doce,2021,7883574.0,Antrópico
+522,24,Grande,2008,6838377.0,Antrópico
+523,24,Grande,2021,9449424.0,Antrópico
+524,24,Iguaçu,2008,2855358.0,Antrópico
+525,24,Iguaçu,2021,4393022.0,Antrópico
+526,24,Itabapoana,2008,1657911.0,Antrópico
+527,24,Itabapoana,2021,457665.0,Antrópico
+528,24,Itajaí-Açú,2008,1090015.0,Antrópico
+529,24,Itajaí-Açú,2021,1390454.0,Antrópico
+530,24,Itiquira,2008,6840.0,Antrópico
+531,24,Itiquira,2021,207014.0,Antrópico
+532,24,Jacuí,2008,131435.0,Antrópico
+533,24,Jacuí,2021,207014.0,Antrópico
+534,24,Jari,2008,738334.0,Antrópico
+535,24,Jari,2021,720456.0,Antrópico
+536,24,Jequitinhonha,2008,597678.0,Antrópico
+537,24,Jequitinhonha,2021,830419.0,Antrópico
+538,24,Madeira,2008,3966832.0,Antrópico
+539,24,Madeira,2021,4707410.0,Antrópico
+540,24,Manso,2008,6052.0,Antrópico
+541,24,Manso,2021,16426.0,Antrópico
+542,24,Mucuri,2008,385045.0,Antrópico
+543,24,Mucuri,2021,484745.0,Antrópico
+544,24,Paraguaçu,2008,445252.0,Antrópico
+545,24,Paraguaçu,2021,740461.0,Antrópico
+546,24,Paranapanema,2008,2420775.0,Antrópico
+547,24,Paranapanema,2021,3704072.0,Antrópico
+548,24,Paranaíba,2008,3984072.0,Antrópico
+549,24,Paranaíba,2021,5360613.0,Antrópico
+550,24,Paraná,2008,2500481.0,Antrópico
+551,24,Paraná,2021,4255474.0,Antrópico
+552,24,Paraíba do Sul,2008,15556311.0,Antrópico
+553,24,Paraíba do Sul,2021,18220716.0,Antrópico
+554,24,Parnaíba,2008,3516009.0,Antrópico
+555,24,Parnaíba,2021,4214460.0,Antrópico
+556,24,São Francisco,2008,9978250.0,Antrópico
+557,24,São Francisco,2021,13766330.0,Antrópico
+558,24,Tapajós,2008,1842517.0,Antrópico
+559,24,Tapajós,2021,2832145.0,Antrópico
+560,24,Tietê,2008,597678.0,Antrópico
+561,24,Tietê,2021,25428030.0,Antrópico
+562,24,Tocantins,2021,8759609.0,Antrópico
+563,24,Uruguai,2008,2670581.0,Antrópico
+564,24,Uruguai,2021,3969292.0,Antrópico
+565,24,Xingú,2008,790928.0,Antrópico
+566,24,Xingú,2021,1261400.0,Antrópico
+567,25,Antas,2008,550215.0,Não-Contabilizado
+568,25,Antas,2021,910047.0,Não-Contabilizado
+569,25,Capivari,2008,77785.0,Não-Contabilizado
+570,25,Capivari,2021,90743.0,Não-Contabilizado
+571,25,Correntes,2008,304606.0,Não-Contabilizado
+572,25,Correntes,2021,157892.0,Não-Contabilizado
+573,25,Doce,2008,5097056.0,Não-Contabilizado
+574,25,Doce,2021,10642716.0,Não-Contabilizado
+575,25,Grande,2008,6042167.0,Não-Contabilizado
+576,25,Grande,2021,18459401.0,Não-Contabilizado
+577,25,Iguaçu,2008,4032363.0,Não-Contabilizado
+578,25,Iguaçu,2021,9546377.0,Não-Contabilizado
+579,25,Itabapoana,2008,632864.0,Não-Contabilizado
+580,25,Itabapoana,2021,206215.0,Não-Contabilizado
+581,25,Itajaí-Açú,2008,228550.0,Não-Contabilizado
+582,25,Itajaí-Açú,2021,512999.0,Não-Contabilizado
+583,25,Itiquira,2008,70965.0,Não-Contabilizado
+584,25,Itiquira,2021,4041822.0,Não-Contabilizado
+585,25,Jacuí,2008,650760.0,Não-Contabilizado
+586,25,Jacuí,2021,4041822.0,Não-Contabilizado
+587,25,Jequitinhonha,2008,6190994.0,Não-Contabilizado
+588,25,Jequitinhonha,2021,9266144.0,Não-Contabilizado
+589,25,Madeira,2008,559955.0,Não-Contabilizado
+590,25,Madeira,2021,77651.0,Não-Contabilizado
+591,25,Manso,2008,405485.0,Não-Contabilizado
+592,25,Manso,2021,3735802.0,Não-Contabilizado
+593,25,Mucuri,2008,144868.0,Não-Contabilizado
+594,25,Mucuri,2021,442246.0,Não-Contabilizado
+595,25,Paraguaçu,2008,1306040.0,Não-Contabilizado
+596,25,Paraguaçu,2021,1864145.0,Não-Contabilizado
+597,25,Paranapanema,2008,3263574.0,Não-Contabilizado
+598,25,Paranapanema,2021,21588401.0,Não-Contabilizado
+599,25,Paranaíba,2008,7414598.0,Não-Contabilizado
+600,25,Paranaíba,2021,24303245.0,Não-Contabilizado
+601,25,Paraná,2008,8328524.0,Não-Contabilizado
+602,25,Paraná,2021,21408553.0,Não-Contabilizado
+603,25,Paraíba do Sul,2008,5693696.0,Não-Contabilizado
+604,25,Paraíba do Sul,2021,6263877.0,Não-Contabilizado
+605,25,Parnaíba,2008,34486410.0,Não-Contabilizado
+606,25,Parnaíba,2021,48774271.0,Não-Contabilizado
+607,25,São Francisco,2008,61155084.0,Não-Contabilizado
+608,25,São Francisco,2021,115328410.0,Não-Contabilizado
+609,25,Tapajós,2008,3256198.0,Não-Contabilizado
+610,25,Tapajós,2021,1781846.0,Não-Contabilizado
+611,25,Tietê,2008,6190994.0,Não-Contabilizado
+612,25,Tietê,2021,11448036.0,Não-Contabilizado
+613,25,Tocantins,2021,121046869.0,Não-Contabilizado
+614,25,Uruguai,2008,42972639.0,Não-Contabilizado
+615,25,Uruguai,2021,35183971.0,Não-Contabilizado
+616,25,Xingú,2008,489525.0,Não-Contabilizado
+617,25,Xingú,2021,329843.0,Não-Contabilizado
+618,29,Capivari,2008,6494.0,Não-Antrópico
+619,29,Doce,2008,1818236.0,Não-Antrópico
+620,29,Doce,2021,1990855.0,Não-Antrópico
+621,29,Grande,2008,626598.0,Não-Antrópico
+622,29,Grande,2021,604837.0,Não-Antrópico
+623,29,Iguaçu,2008,29037.0,Não-Antrópico
+624,29,Iguaçu,2021,36231.0,Não-Antrópico
+625,29,Itabapoana,2008,12299.0,Não-Antrópico
+626,29,Itabapoana,2021,4186.0,Não-Antrópico
+627,29,Itajaí-Açú,2008,5597.0,Não-Antrópico
+628,29,Itajaí-Açú,2021,2399.0,Não-Antrópico
+629,29,Jequitinhonha,2008,1937192.0,Não-Antrópico
+630,29,Jequitinhonha,2021,1605227.0,Não-Antrópico
+631,29,Mucuri,2008,266448.0,Não-Antrópico
+632,29,Mucuri,2021,350924.0,Não-Antrópico
+633,29,Paranaíba,2008,6739.0,Não-Antrópico
+634,29,Paranaíba,2021,7581.0,Não-Antrópico
+635,29,Paraíba do Sul,2008,417824.0,Não-Antrópico
+636,29,Paraíba do Sul,2021,336972.0,Não-Antrópico
+637,29,Parnaíba,2008,13266.0,Não-Antrópico
+638,29,Parnaíba,2021,4054610.0,Não-Antrópico
+639,29,São Francisco,2008,1201920.0,Não-Antrópico
+640,29,São Francisco,2021,2782513.0,Não-Antrópico
+641,29,Tietê,2008,1937192.0,Não-Antrópico
+642,29,Tietê,2021,87046.0,Não-Antrópico
+643,29,Tocantins,2021,22637.0,Não-Antrópico
+644,29,Uruguai,2008,1627970.0,Não-Antrópico
+645,29,Uruguai,2021,1908515.0,Não-Antrópico
+646,30,Araguari,2008,1031546.0,Antrópico
+647,30,Araguari,2021,1954924.0,Antrópico
+648,30,Doce,2008,515992.0,Antrópico
+649,30,Doce,2021,877266.0,Antrópico
+650,30,Grande,2008,112422.0,Antrópico
+651,30,Grande,2021,217599.0,Antrópico
+652,30,Iguaçu,2008,541444.0,Antrópico
+653,30,Iguaçu,2021,960026.0,Antrópico
+654,30,Itabapoana,2008,4788.0,Antrópico
+655,30,Itajaí-Açú,2008,4788.0,Antrópico
+656,30,Itajaí-Açú,2021,7183.0,Antrópico
+657,30,Jari,2008,244039.0,Antrópico
+658,30,Jari,2021,387068.0,Antrópico
+659,30,Jequitinhonha,2008,60907.0,Antrópico
+660,30,Jequitinhonha,2021,61764.0,Antrópico
+661,30,Madeira,2008,31027098.0,Antrópico
+662,30,Madeira,2021,41476777.0,Antrópico
+663,30,Paraguaçu,2008,9581.0,Antrópico
+664,30,Paraguaçu,2021,15678.0,Antrópico
+665,30,Paranapanema,2008,27777.0,Antrópico
+666,30,Paranapanema,2021,25331.0,Antrópico
+667,30,Paranaíba,2008,375118.0,Antrópico
+668,30,Paranaíba,2021,698090.0,Antrópico
+669,30,Paraíba do Sul,2008,51187.0,Antrópico
+670,30,Paraíba do Sul,2021,70987.0,Antrópico
+671,30,São Francisco,2008,839006.0,Antrópico
+672,30,São Francisco,2021,3067933.0,Antrópico
+673,30,Tapajós,2008,83379163.0,Antrópico
+674,30,Tapajós,2021,183796518.0,Antrópico
+675,30,Tietê,2008,60907.0,Antrópico
+676,30,Tietê,2021,103750.0,Antrópico
+677,30,Tocantins,2008,10599929.0,Antrópico
+678,30,Tocantins,2021,27171760.0,Antrópico
+679,30,Uatuamã,2008,10599929.0,Antrópico
+680,30,Uatuamã,2021,12203487.0,Antrópico
+681,30,Xingú,2008,17071804.0,Antrópico
+682,30,Xingú,2021,44120022.0,Antrópico
+683,31,Paraíba do Sul,2008,7003146.0,Não-Contabilizado
+684,31,Paraíba do Sul,2021,5846933.0,Não-Contabilizado
+685,31,Tietê,2021,22208.0,Não-Contabilizado
+686,32,Doce,2008,2536.0,Não-Antrópico
+687,32,Jequitinhonha,2008,4304.0,Não-Antrópico
+688,32,Jequitinhonha,2021,6026.0,Não-Antrópico
+689,32,Mucuri,2008,9361.0,Não-Antrópico
+690,32,Mucuri,2021,16167.0,Não-Antrópico
+691,32,Paraguaçu,2008,89858.0,Não-Antrópico
+692,32,Paraguaçu,2021,61937.0,Não-Antrópico
+693,32,Paraíba do Sul,2008,37419.0,Não-Antrópico
+694,32,Paraíba do Sul,2021,44129.0,Não-Antrópico
+695,32,Parnaíba,2008,781354.0,Não-Antrópico
+696,32,Parnaíba,2021,807253.0,Não-Antrópico
+697,32,Tietê,2008,4304.0,Não-Antrópico
+698,32,Tietê,2021,18065.0,Não-Antrópico
+699,33,Antas,2008,58149240.0,Não-Contabilizado
+700,33,Antas,2021,66199339.0,Não-Contabilizado
+701,33,Araguari,2008,78428779.0,Não-Contabilizado
+702,33,Araguari,2021,80418934.0,Não-Contabilizado
+703,33,Capivari,2008,15403921.0,Não-Contabilizado
+704,33,Capivari,2021,14499549.0,Não-Contabilizado
+705,33,Correntes,2008,21608458.0,Não-Contabilizado
+706,33,Correntes,2021,19997779.0,Não-Contabilizado
+707,33,Curruá Una,2008,90211504.0,Não-Contabilizado
+708,33,Curruá Una,2021,84334005.0,Não-Contabilizado
+709,33,Doce,2008,610442110.0,Não-Contabilizado
+710,33,Doce,2021,603787731.0,Não-Contabilizado
+711,33,Grande,2008,3168894638.0,Não-Contabilizado
+712,33,Grande,2021,2874452508.0,Não-Contabilizado
+713,33,Iguaçu,2008,987719056.0,Não-Contabilizado
+714,33,Iguaçu,2021,979933710.0,Não-Contabilizado
+715,33,Itabapoana,2008,54426621.0,Não-Contabilizado
+716,33,Itabapoana,2021,18695383.0,Não-Contabilizado
+717,33,Itajaí-Açú,2008,18759475.0,Não-Contabilizado
+718,33,Itajaí-Açú,2021,19355346.0,Não-Contabilizado
+719,33,Itiquira,2008,3361654.0,Não-Contabilizado
+720,33,Itiquira,2021,313629880.0,Não-Contabilizado
+721,33,Jacuí,2008,315247913.0,Não-Contabilizado
+722,33,Jacuí,2021,313629880.0,Não-Contabilizado
+723,33,Jari,2008,245909534.0,Não-Contabilizado
+724,33,Jari,2021,221772763.0,Não-Contabilizado
+725,33,Jauru,2008,6759798.0,Não-Contabilizado
+726,33,Jauru,2021,6578595.0,Não-Contabilizado
+727,33,Jequitinhonha,2008,410895990.0,Não-Contabilizado
+728,33,Jequitinhonha,2021,366065165.0,Não-Contabilizado
+729,33,Madeira,2008,4484534802.0,Não-Contabilizado
+730,33,Madeira,2021,4415241672.0,Não-Contabilizado
+731,33,Manso,2008,339269360.0,Não-Contabilizado
+732,33,Manso,2021,306820654.0,Não-Contabilizado
+733,33,Mucuri,2008,44815834.0,Não-Contabilizado
+734,33,Mucuri,2021,43826218.0,Não-Contabilizado
+735,33,Paraguaçu,2008,293788471.0,Não-Contabilizado
+736,33,Paraguaçu,2021,261013017.0,Não-Contabilizado
+737,33,Paranapanema,2008,2035391932.0,Não-Contabilizado
+738,33,Paranapanema,2021,1991954845.0,Não-Contabilizado
+739,33,Paranaíba,2008,2744991676.0,Não-Contabilizado
+740,33,Paranaíba,2021,2698911641.0,Não-Contabilizado
+741,33,Paraná,2008,574945308.0,Não-Contabilizado
+742,33,Paraná,2021,741624325.0,Não-Contabilizado
+743,33,Paraíba do Sul,2008,638565856.0,Não-Contabilizado
+744,33,Paraíba do Sul,2021,617503274.0,Não-Contabilizado
+745,33,Parnaíba,2008,1225576332.0,Não-Contabilizado
+746,33,Parnaíba,2021,1120906613.0,Não-Contabilizado
+747,33,São Francisco,2008,3483060666.0,Não-Contabilizado
+748,33,São Francisco,2021,2242130536.0,Não-Contabilizado
+749,33,Tapajós,2008,912554131.0,Não-Contabilizado
+750,33,Tapajós,2021,967787353.0,Não-Contabilizado
+751,33,Tietê,2008,410895990.0,Não-Contabilizado
+752,33,Tietê,2021,2195952840.0,Não-Contabilizado
+753,33,Tocantins,2008,144554918.0,Não-Contabilizado
+754,33,Tocantins,2021,3888049401.0,Não-Contabilizado
+755,33,Uatuamã,2008,144554918.0,Não-Contabilizado
+756,33,Uatuamã,2021,91440028.0,Não-Contabilizado
+757,33,Uruguai,2008,2443864775.0,Não-Contabilizado
+758,33,Uruguai,2021,2743761019.0,Não-Contabilizado
+759,33,Xingú,2008,794479669.0,Não-Contabilizado
+760,33,Xingú,2021,2967913752.0,Não-Contabilizado
+761,39,Antas,2008,8182468.0,Antrópico
+762,39,Antas,2021,14601455.0,Antrópico
+763,39,Capivari,2008,10532.0,Antrópico
+764,39,Capivari,2021,21878.0,Antrópico
+765,39,Correntes,2008,854.0,Antrópico
+766,39,Correntes,2021,5123.0,Antrópico
+767,39,Curruá Una,2008,8929.0,Antrópico
+768,39,Curruá Una,2021,789250.0,Antrópico
+769,39,Doce,2021,5097.0,Antrópico
+770,39,Grande,2008,3685850.0,Antrópico
+771,39,Grande,2021,10426115.0,Antrópico
+772,39,Iguaçu,2008,25514068.0,Antrópico
+773,39,Iguaçu,2021,31901483.0,Antrópico
+774,39,Itabapoana,2008,2260983.0,Antrópico
+775,39,Itajaí-Açú,2008,2260983.0,Antrópico
+776,39,Itajaí-Açú,2021,4256298.0,Antrópico
+777,39,Itiquira,2021,73673934.0,Antrópico
+778,39,Jacuí,2008,57614788.0,Antrópico
+779,39,Jacuí,2021,73673934.0,Antrópico
+780,39,Jequitinhonha,2021,16208.0,Antrópico
+781,39,Madeira,2008,215858.0,Antrópico
+782,39,Madeira,2021,5071590.0,Antrópico
+783,39,Manso,2008,26788.0,Antrópico
+784,39,Manso,2021,4323.0,Antrópico
+785,39,Paranapanema,2008,28872250.0,Antrópico
+786,39,Paranapanema,2021,38104655.0,Antrópico
+787,39,Paranaíba,2008,20794050.0,Antrópico
+788,39,Paranaíba,2021,18524455.0,Antrópico
+789,39,Paraná,2008,26279920.0,Antrópico
+790,39,Paraná,2021,30518936.0,Antrópico
+791,39,Paraíba do Sul,2008,4121.0,Antrópico
+792,39,Paraíba do Sul,2021,158324.0,Antrópico
+793,39,Parnaíba,2008,725479.0,Antrópico
+794,39,Parnaíba,2021,483436.0,Antrópico
+795,39,São Francisco,2008,6451711.0,Antrópico
+796,39,São Francisco,2021,7839564.0,Antrópico
+797,39,Tapajós,2008,9514365.0,Antrópico
+798,39,Tapajós,2021,9868062.0,Antrópico
+799,39,Tietê,2021,3080377.0,Antrópico
+800,39,Tocantins,2021,11792400.0,Antrópico
+801,39,Uruguai,2008,351354879.0,Antrópico
+802,39,Uruguai,2021,450729269.0,Antrópico
+803,39,Xingú,2008,1929143.0,Antrópico
+804,39,Xingú,2021,8897787.0,Antrópico
+805,40,Capivari,2008,4865.0,Antrópico
+806,40,Iguaçu,2008,12855.0,Antrópico
+807,40,Iguaçu,2021,27446.0,Antrópico
+808,40,Itabapoana,2008,1836237.0,Antrópico
+809,40,Itajaí-Açú,2008,1836237.0,Antrópico
+810,40,Itajaí-Açú,2021,670141.0,Antrópico
+811,40,Itiquira,2021,1658919.0,Antrópico
+812,40,Jacuí,2021,1658919.0,Antrópico
+813,40,Tocantins,2021,1655059.0,Antrópico
+814,40,Uruguai,2008,5801095.0,Antrópico
+815,40,Uruguai,2021,25844680.0,Antrópico
+816,41,Antas,2008,1214680.0,Antrópico
+817,41,Antas,2021,6174098.0,Antrópico
+818,41,Araguari,2008,50058.0,Antrópico
+819,41,Araguari,2021,13408.0,Antrópico
+820,41,Capivari,2008,184830.0,Antrópico
+821,41,Capivari,2021,57541.0,Antrópico
+822,41,Correntes,2008,854.0,Antrópico
+823,41,Correntes,2021,854.0,Antrópico
+824,41,Curruá Una,2008,777664.0,Antrópico
+825,41,Curruá Una,2021,856170.0,Antrópico
+826,41,Doce,2008,895849.0,Antrópico
+827,41,Doce,2021,1658354.0,Antrópico
+828,41,Grande,2008,20299737.0,Antrópico
+829,41,Grande,2021,34944461.0,Antrópico
+830,41,Iguaçu,2008,29911818.0,Antrópico
+831,41,Iguaçu,2021,14309096.0,Antrópico
+832,41,Itabapoana,2008,9461539.0,Antrópico
+833,41,Itabapoana,2021,704533.0,Antrópico
+834,41,Itajaí-Açú,2008,7351363.0,Antrópico
+835,41,Itajaí-Açú,2021,2366067.0,Antrópico
+836,41,Itiquira,2021,7430076.0,Antrópico
+837,41,Jacuí,2008,946702.0,Antrópico
+838,41,Jacuí,2021,7430076.0,Antrópico
+839,41,Jari,2008,50058.0,Antrópico
+840,41,Jari,2021,7152.0,Antrópico
+841,41,Jequitinhonha,2008,34295.0,Antrópico
+842,41,Jequitinhonha,2021,4295.0,Antrópico
+843,41,Madeira,2008,706367.0,Antrópico
+844,41,Madeira,2021,6880428.0,Antrópico
+845,41,Manso,2008,18146.0,Antrópico
+846,41,Manso,2021,22467.0,Antrópico
+847,41,Paraguaçu,2008,90578.0,Antrópico
+848,41,Paraguaçu,2021,154202.0,Antrópico
+849,41,Paranapanema,2008,30876993.0,Antrópico
+850,41,Paranapanema,2021,13288147.0,Antrópico
+851,41,Paranaíba,2008,25768926.0,Antrópico
+852,41,Paranaíba,2021,12136952.0,Antrópico
+853,41,Paraná,2008,38506369.0,Antrópico
+854,41,Paraná,2021,19241416.0,Antrópico
+855,41,Paraíba do Sul,2008,42215677.0,Antrópico
+856,41,Paraíba do Sul,2021,29155480.0,Antrópico
+857,41,Parnaíba,2008,307628.0,Antrópico
+858,41,Parnaíba,2021,2915289.0,Antrópico
+859,41,São Francisco,2008,8812733.0,Antrópico
+860,41,São Francisco,2021,19770433.0,Antrópico
+861,41,Tapajós,2008,10760763.0,Antrópico
+862,41,Tapajós,2021,12260984.0,Antrópico
+863,41,Tietê,2008,34295.0,Antrópico
+864,41,Tietê,2021,49497424.0,Antrópico
+865,41,Tocantins,2008,894.0,Antrópico
+866,41,Tocantins,2021,6505093.0,Antrópico
+867,41,Uatuamã,2008,894.0,Antrópico
+868,41,Uatuamã,2021,572057.0,Antrópico
+869,41,Uruguai,2008,31639413.0,Antrópico
+870,41,Uruguai,2021,35978679.0,Antrópico
+871,41,Xingú,2008,5756728.0,Antrópico
+872,41,Xingú,2021,8672180.0,Antrópico
+873,46,Doce,2008,415441.0,Antrópico
+874,46,Doce,2021,1424976.0,Antrópico
+875,46,Grande,2008,815572.0,Antrópico
+876,46,Grande,2021,2010037.0,Antrópico
+877,46,Iguaçu,2008,41374.0,Antrópico
+878,46,Iguaçu,2021,17038.0,Antrópico
+879,46,Itabapoana,2008,189140.0,Antrópico
+880,46,Itabapoana,2021,101267.0,Antrópico
+881,46,Jequitinhonha,2008,58065.0,Antrópico
+882,46,Jequitinhonha,2021,17058.0,Antrópico
+883,46,Paraguaçu,2021,4367.0,Antrópico
+884,46,Paranapanema,2008,469447.0,Antrópico
+885,46,Paranapanema,2021,486232.0,Antrópico
+886,46,Paranaíba,2008,490641.0,Antrópico
+887,46,Paranaíba,2021,690373.0,Antrópico
+888,46,Paraná,2008,536531.0,Antrópico
+889,46,Paraná,2021,265485.0,Antrópico
+890,46,Paraíba do Sul,2008,42630.0,Antrópico
+891,46,Paraíba do Sul,2021,51021.0,Antrópico
+892,46,São Francisco,2008,2192813.0,Antrópico
+893,46,São Francisco,2021,2409993.0,Antrópico
+894,46,Tietê,2008,58065.0,Antrópico
+895,46,Tietê,2021,46459.0,Antrópico
+896,47,Grande,2008,3711855.0,Antrópico
+897,47,Grande,2021,4753098.0,Antrópico
+898,47,Jequitinhonha,2021,178948.0,Antrópico
+899,47,Paranapanema,2008,823158.0,Antrópico
+900,47,Paranapanema,2021,621481.0,Antrópico
+901,47,Paranaíba,2008,660044.0,Antrópico
+902,47,Paranaíba,2021,319694.0,Antrópico
+903,47,Paraná,2008,146728.0,Antrópico
+904,47,Paraná,2021,398258.0,Antrópico
+905,47,São Francisco,2008,70953.0,Antrópico
+906,47,São Francisco,2021,279197.0,Antrópico
+907,47,Tietê,2021,1026119.0,Antrópico
+908,48,Doce,2008,841.0,Antrópico
+909,48,Doce,2021,5062.0,Antrópico
+910,48,Grande,2008,17578.0,Antrópico
+911,48,Grande,2021,317005.0,Antrópico
+912,48,Paraguaçu,2008,38340.0,Antrópico
+913,48,Paraguaçu,2021,102797.0,Antrópico
+914,48,Paranapanema,2008,9060.0,Antrópico
+915,48,Paranapanema,2021,440749.0,Antrópico
+916,48,Paranaíba,2008,13521.0,Antrópico
+917,48,Paranaíba,2021,12678.0,Antrópico
+918,48,Paraná,2008,2442.0,Antrópico
+919,48,Paraná,2021,2462.0,Antrópico
+920,48,Paraíba do Sul,2021,38739.0,Antrópico
+921,48,Parnaíba,2021,892.0,Antrópico
+922,48,São Francisco,2008,22754458.0,Antrópico
+923,48,São Francisco,2021,54414200.0,Antrópico
+924,48,Tietê,2021,59889.0,Antrópico
+925,49,Doce,2008,32045.0,Não-Antrópico
+926,49,Doce,2021,118912.0,Não-Antrópico
+927,49,Itabapoana,2008,180244.0,Não-Antrópico
+928,49,Itabapoana,2021,120161.0,Não-Antrópico
+929,49,Jequitinhonha,2021,14634.0,Não-Antrópico
+930,49,Paraíba do Sul,2008,477032.0,Não-Antrópico
+931,49,Paraíba do Sul,2021,946294.0,Não-Antrópico
+932,50,Doce,2008,787685.0,Não-Antrópico
+933,50,Doce,2021,775875.0,Não-Antrópico
+934,50,Itabapoana,2008,85112.0,Não-Antrópico
+935,50,Itabapoana,2021,35045.0,Não-Antrópico
+936,50,Jequitinhonha,2008,459662.0,Não-Antrópico
+937,50,Jequitinhonha,2021,519924.0,Não-Antrópico
+938,50,Mucuri,2008,26377.0,Não-Antrópico
+939,50,Mucuri,2021,42545.0,Não-Antrópico
+940,50,Paraguaçu,2021,6105.0,Não-Antrópico
+941,50,Paraíba do Sul,2008,404631.0,Não-Antrópico
+942,50,Paraíba do Sul,2021,423768.0,Não-Antrópico
+943,50,Tietê,2008,459662.0,Não-Antrópico
+944,62,Paraná,2021,854.0,Antrópico
+945,62,São Francisco,2008,37538.0,Antrópico
+946,62,São Francisco,2021,866.0,Antrópico
+947,62,Tapajós,2008,11357.0,Antrópico
+948,62,Tocantins,2021,3458.0,Antrópico
